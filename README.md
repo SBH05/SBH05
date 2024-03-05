@@ -16,4 +16,8 @@ Teck Stack
 <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/framework-000000?style=flat-square&logo=framework&logoColor=white"/>
 
+
+-목적-
+끝난 팀 프로젝트에서 완성하고 싶은 기능을 개인과제하여 추가적으로 진행하기
  </div>
+
