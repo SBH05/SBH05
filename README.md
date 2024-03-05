@@ -3,7 +3,7 @@
 
 <div align="center">Teck Stack </div>
 
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=intellijidea&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=intellijidea&logoColor=white"/> <a/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
